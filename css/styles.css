@@ -1,0 +1,19 @@
+h1 {
+  display: inline-block;
+  padding: .5em 1em;
+  background: rgb(255, 217, 0);
+  margin-bottom: 2em;
+}
+
+section {
+  margin-bottom: 8em;
+}
+
+.example {
+  margin-top: .5em;
+  margin-bottom: 2em;
+}
+
+.example a {
+  color: rgb(51, 194, 191);
+}
